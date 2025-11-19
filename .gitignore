@@ -1,0 +1,72 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### SPRING BOOT SPECIFIC ###
+# Arquivos de configuração local
+application-local.properties
+application-local.yml
+application-dev.properties
+application-dev.yml
+
+# Arquivos .env (não versionar senhas)
+.env
+*.env
+# Mas versionar o template
+!.env.example
+
+### BANCO DE DADOS ###
+# H2 Database
+*.db
+*.trace.db
+*.h2.db
+
+# Outros bancos
+postgres_data/
+mongodb_data/
+mysql_data/
+
+### LOGS ###
+logs/
+*.log
+*.log.*
+
+### DOCKER ###
+docker-compose.override.yml
+
+### SISTEMA ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
