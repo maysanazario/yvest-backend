@@ -239,7 +239,7 @@ A API estará disponível em: `http://localhost:8080`
 | **Curso** | Desenvolvimento de Software Multiplataforma (DSM) |
 | **Disciplina** | Projeto Integrador |
 | **Semestre** | 2º Semestre |
-| **Período** | 2024 |
+| **Período** | 2025 |
 
 ### Objetivos de Aprendizagem
 
@@ -256,9 +256,6 @@ A API estará disponível em: `http://localhost:8080`
 - [ ] Implementar testes unitários e de integração
 - [ ] Adicionar documentação Swagger/OpenAPI
 - [ ] Implementar relatórios financeiros (PDF/Excel)
-- [ ] Criar front-end (React ou Angular)
-- [ ] Adicionar métricas de desempenho (Actuator)
-- [ ] Implementar cache distribuído (Redis)
 - [ ] Melhorar prompts e contexto do assistente IA
 
 ---
